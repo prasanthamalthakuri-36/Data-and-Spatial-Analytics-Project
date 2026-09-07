@@ -5,7 +5,7 @@ This directory contains the datasets associated with the Darjeeling District Edu
 ## Data Organization
 
 - `Raw/` — source datasets obtained from government data sources.
-- `Processed/` — datasets prepared through the Python data-preparation workflow for subsequent analysis in Power BI.
+- `Cleaned/` — datasets prepared through the Python data-preparation workflow for subsequent analysis in Power BI.
 
 ## Data Availability
 
